@@ -1,7 +1,9 @@
 import turtle
 
+
 ninja = turtle.Turtle()
 
+# specifying speed
 ninja.speed(800)
 
 for i in range(180):
